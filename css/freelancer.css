@@ -486,6 +486,7 @@ div#maincontent {
   font-size: 1.7rem;
 }
 
-.stack {
+.stack p{
   text-align: left;
+  font-size: 1.3rem;
 }
