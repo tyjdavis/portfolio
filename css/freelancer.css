@@ -14,7 +14,7 @@ a:hover,
 a:focus,
 a:active,
 a.active {
-  color: #18BC9C;
+  color: black;
 }
 h1,
 h2,
@@ -480,4 +480,12 @@ div#maincontent {
 
 #portfolio {
   background-color: #e9ebee;
+}
+
+.about-me p{
+  font-size: 1.7rem;
+}
+
+.stack {
+  text-align: left;
 }
